@@ -1,4 +1,4 @@
-# N O T I O N  S Y N T H W A V E
+# T H E M E S - S Y N T H W A V E
 Creating themes heavily inspired by synthwave 84
 
 # G O A L S
